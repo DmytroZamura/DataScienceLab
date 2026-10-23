@@ -1,0 +1,15 @@
+[project]
+name = "datasciencelab"
+version = "0.1.0"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "python-docx>=1.2.0",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
+    "ucimlrepo>=0.0.7",
+    "xgboost>=3.4.1",
+]
